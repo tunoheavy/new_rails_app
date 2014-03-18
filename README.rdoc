@@ -23,6 +23,7 @@ Things you may want to cover:
 
 * ...
 
+esto es el contenido de mi fichero README que se verá en el proyecto
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
